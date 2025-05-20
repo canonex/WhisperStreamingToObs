@@ -8,10 +8,17 @@ A maximum number of characters per line can be set and shorter lines are merged 
 
 You must install dependencies and customise the scripts with the appropriate information.
 
-## Dependencies
+## Main dependencies
 
-[Whisper Streaming](https://github.com/ufal/whisper_streaming)
-[Websocat](https://github.com/vi/websocat)
+ - [Whisper Streaming](https://github.com/ufal/whisper_streaming)
+ - [Websocat](https://github.com/vi/websocat)
+ - [Obs](https://github.com/obsproject/obs-studio)
+ - nc (netcat)
+ - arecord (alsa-utils)
+ - awk
+ - grep
+ - stdbuf and others coreutils commands
+
 
 ## Customization
 

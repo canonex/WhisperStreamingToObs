@@ -1,4 +1,4 @@
-# Whisper Streaming ToObs
+# Whisper Streaming To Obs
 Transcribe or Translate to Obs session
 
 
